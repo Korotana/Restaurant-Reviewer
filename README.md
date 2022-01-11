@@ -3,9 +3,9 @@
 In this Application You can add reviews of restaurants and browse the reviewed restaurants.
 
 Technologies Used:
-Node.Js - v16.13.0
-EJS - 3.1.6
-Express - 4.17.1
+Node.Js - v16.13.0,
+EJS - 3.1.6,
+Express - 4.17.1,
 MySQL - 8.0.27
 
 How To Run:
