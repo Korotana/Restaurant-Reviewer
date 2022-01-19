@@ -6,7 +6,7 @@ Technologies Used:
 Node.Js - v16.13.0,
 EJS - 3.1.6,
 Express - 4.17.1,
-MySQL - 8.0.27
+Data stored in File.
 
 How To Run:
 1. Download the Code and open in your preferred IDE.
